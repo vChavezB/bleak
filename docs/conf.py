@@ -117,6 +117,7 @@ autodoc_mock_imports = [
     "winrt",
     "CoreBluetooth",
     "dbus_fast",
+    "bumble",
     "Foundation",
     "jnius",
     "libdispatch",

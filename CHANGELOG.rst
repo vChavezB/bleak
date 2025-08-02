@@ -10,6 +10,12 @@ and this project adheres to `Semantic Versioning <https://semver.org/spec/v2.0.0
 `Unreleased`_
 =============
 
+Added
+-----
+* Added support for Google's Bumble Bluetooth stack.
+
+
+
 `1.0.1`_ (2025-06-30)
 =====================
 

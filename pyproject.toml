@@ -40,6 +40,10 @@ pyobjc-framework-libdispatch = { version = ">=10.3", markers = "platform_system=
 "winrt-Windows.Foundation.Collections" = { version = ">=3.1", markers = "platform_system=='Windows'" }
 "winrt-Windows.Storage.Streams" = { version = ">=3.1", markers = "platform_system=='Windows'" }
 dbus-fast = { version = ">=1.83.0", markers = "platform_system == 'Linux'" }
+bumble = { version = "0.0.211", optional = true }
+
+[tool.poetry.extras]
+bumble = ["bumble"]
 
 [tool.poetry.group.docs]
 optional = true

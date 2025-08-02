@@ -24,6 +24,7 @@ Contributors
 * David Johansen <davejohansen@gmail.com>
 * JP Hutchins <jphutchins@gmail.com>
 * Bram Duvigneau <bram@bramd.nl>
+* Victor Chavez <vchavezb@protonmail.com>
 
 And many others who did not wish to be named here.
 

@@ -19,6 +19,7 @@ Contents:
    linux
    macos
    android
+   bumble
 
 Shared Backend API
 ------------------
