@@ -21,6 +21,7 @@ Contents:
    macos
    android
    pythonista
+   bumble
 
 Shared Backend API
 ------------------

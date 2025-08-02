@@ -286,6 +286,11 @@ def get_platform_scanner_backend_type() -> type[BaseBleakScanner]:
     """
     Gets the platform-specific :class:`BaseBleakScanner` type.
     """
+    if os.environ.get("BLEAK_BUMBLE") is not None:
+        from bleak.backends.bumble.client import BleakClientBumble
+
+        return BleakClientBumble
+
     if os.environ.get("P4A_BOOTSTRAP") is not None:
         from bleak.backends.p4android.scanner import BleakScannerP4Android
 

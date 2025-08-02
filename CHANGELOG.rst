@@ -14,6 +14,9 @@ Fixed
 -----
 - Fixed ``AttributeError`` in Python4Android backend when accessing ``is_connected`` before connecting. Fixes #1791.
 
+Added
+-----
+* Added support for Google's Bumble Bluetooth stack.
 
 `1.1.0`_ (2025-08-10)
 =====================

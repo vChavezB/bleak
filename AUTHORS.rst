@@ -25,6 +25,7 @@ Contributors
 * JP Hutchins <jphutchins@gmail.com>
 * Bram Duvigneau <bram@bramd.nl>
 * Dmytro Yaroshenko <thehelixpg@gmail.com>
+* Victor Chavez <vchavezb@protonmail.com>
 
 And many others who did not wish to be named here.
 
